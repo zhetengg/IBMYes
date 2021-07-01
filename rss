@@ -1,0 +1,118 @@
+<rss version="2.0">
+<channel>
+<title>Asian Channel</title>
+<link>http://124.232.231.246:6610/000000001001/201500000063/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2</link>
+<item>
+<title>All Channel</title>
+<enclosure url="http://allrss.se/rss/all.xml" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>Recently</title>
+<enclosure url="http://allrss.se/dramas/?channel=recently&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>HK Drama</title>
+<enclosure url="http://allrss.se/dramas/?channel=hk-drama&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/hk.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>HK Variety & News</title>
+<enclosure url="http://allrss.se/dramas/?channel=hk-variety&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/hkv.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>US TV Series (RAW)</title>
+<enclosure url="http://us.vrss.me/ustvraw.php" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/us.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>US TV Series</title>
+<enclosure url="http://allrss.se/dramas/?channel=us-drama&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/us.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>Korean Drama</title>
+<enclosure url="http://allrss.se/dramas/?subchannel=kr-rss&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/ko.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>Korean Variety</title>
+<enclosure url="http://allrss.se/dramas/?channel=korean-variety&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/kov.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>Chinese Drama</title>
+<enclosure url="http://allrss.se/dramas/?subchannel=cn-rss&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/cn.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>Taiwanese Drama</title>
+<enclosure url="http://allrss.se/dramas/?subchannel=tw-rss&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/tw.jpg' /> ]]>
+</description>
+</item>
+<item>
+<title>Janpanese Drama</title>
+<enclosure url="http://allrss.se/dramas/?subchannel=jp-rss&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>Movies</title>
+<enclosure url="http://allrss.se/dramas/?channel=movies&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>Anime #1</title>
+<enclosure url="http://allrss.se/dramas/?channel=anime&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>Anime #2</title>
+<enclosure url="http://allrss.se/animeplustv.php" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>Anime #3 (Newest anime)</title>
+<enclosure url="http://allrss.se/anime.php" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/play.png' /> ]]>
+</description>
+</item>
+<item>
+<title>HK Drama (English Subtitles)</title>
+<enclosure url="http://allrss.se/dramas/?channel=hk-drama-englishsubtitles&nocache=1" type="application/rss+xml" bookmark="false"/>
+<description>
+<![CDATA[ <img src='http://allrss.se/dramas/hk.jpg' /> ]]>
+</description>
+</item>
+</channel>
+</rss>
